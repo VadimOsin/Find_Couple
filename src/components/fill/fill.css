@@ -1,0 +1,17 @@
+.fill {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    font-size: 2rem;
+}
+
+.fill_item {
+    border: 1px black solid;
+    border-radius: 1rem;
+    padding: 1rem;
+    cursor: pointer;
+}
+.fill_item:hover{
+    scale: 1.1;
+}

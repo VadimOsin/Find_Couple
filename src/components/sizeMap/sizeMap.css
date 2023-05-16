@@ -1,0 +1,11 @@
+.sizeMap{
+    margin: 0 auto 2rem auto;
+    width: fit-content;
+    display: flex;
+    font-size: 3rem;
+}
+.selectSize{
+    margin: 1rem;
+    padding: 0.4rem;
+    font-size: 1rem;
+}
